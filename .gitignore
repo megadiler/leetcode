@@ -93,6 +93,11 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+# my bonus files
+*.vcxproj
+*.filters
+*.sln
+
 # Chutzpah Test files
 _Chutzpah*
 
